@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://torbox.app/logo.png</Icon>
+  <Profile>
+    Official TorBox CA Profile for TorBox Docker Apps on Unraid!
+  </Profile>
+  <DonateLink>https://torbox.app/subscription</DonateLink>
+  <DonateText>To use these images to their full capacity, get a paid TorBox account here.</DonateText>
+  <WebPage>https://torbox.app</WebPage>
+  <Discord>https://join-discord.torbox.app</Discord>
+  <Reddit>https://join-reddit.torbox.app</Reddit>
+  <Twitter>https://x.com/torbox_app</Twitter>
+</Maintainer>
