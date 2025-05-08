@@ -17,6 +17,7 @@ To use the "fuse" method:&#xD;
 2. Add "--cap-add SYS_ADMIN" to the Extra Parameters (in advanced view).</Overview>
   <Category/>
   <WebUI/>
+  <Banner>https://raw.githubusercontent.com/TorBox-App/torbox-media-center/main/assets/header.png</Banner>
   <TemplateURL/>
   <Icon>https://torbox.app/logo.png</Icon>
   <ExtraParams/>

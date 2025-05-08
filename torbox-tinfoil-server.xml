@@ -12,6 +12,7 @@
   <Overview>The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.</Overview>
   <Category>Cloud:</Category>
   <WebUI>http://[IP]:[PORT:8000]</WebUI>
+  <Banner>https://raw.githubusercontent.com/TorBox-App/torbox-tinfoil-server/main/assets/header.png</Banner>
   <TemplateURL/>
   <Icon>https://torbox.app/logo.png</Icon>
   <ExtraParams/>
